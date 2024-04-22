@@ -10,6 +10,7 @@ public class Main {
       int salario = sc.nextInt();
       System.out.println("Digite o nome do segundo empregado: ");
       String nome2 = sc.nextLine();
+      sc.nextLine();
       System.out.println("Digite o sobrenome do segundo empregado: ");
       String sobrenome2 = sc.nextLine();
       System.out.println("Digite o salário mensal do segundo empregado: ");
